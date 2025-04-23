@@ -1,0 +1,6 @@
+{
+    "values":[
+        "system:main/reload",
+        "system:main/hold_clock"
+    ]
+}

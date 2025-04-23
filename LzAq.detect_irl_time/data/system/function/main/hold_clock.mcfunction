@@ -1,0 +1,1 @@
+execute as @a[predicate=system:hold_clock] if entity @s run function system:main/

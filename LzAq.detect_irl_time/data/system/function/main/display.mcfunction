@@ -1,0 +1,1 @@
+$execute as @a[predicate=system:hold_clock] if entity @s run title @s actionbar [{"nbt":"irl_text/h","storage":"lzaq:irl_time", "color":"$(color)"},{"text":"時", "color":"white"},{"nbt":"irl_text/m","storage":"lzaq:irl_time", "color":"$(color)"},{"text":"分", "color":"white"},{"nbt":"irl_text/s","storage":"lzaq:irl_time", "color":"$(color)"},{"text":"秒", "color":"white"}]

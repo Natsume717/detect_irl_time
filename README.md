@@ -27,3 +27,6 @@ When you hold a clock, the current time is displayed.
 本データパックはMinecraft の公式の製品ではありません。Mojang または Microsoft から承認を受けておらず、それらとの関連性もありません。
 
 NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT
+
+## License
+This project is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).  

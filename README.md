@@ -6,6 +6,14 @@ This data pack display irl time.
 ## 対応バージョン《Supported Version》
 Minecraft Java Edition 1.21.5
 
+## デモ《video》
+
+![動作デモ](assets/detect_irl_time_demo.gif)
+
+高画質版はYoutubeにアップロードしています。
+
+[高画質版デモ動画はここをクリック](https://youtu.be/iEJRnKch7SY)
+
 ## 使い方 《Usage》
 時計を持つことで、ホットバーの上に現在時刻が表示されます。
 
